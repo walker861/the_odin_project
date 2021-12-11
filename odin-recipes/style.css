@@ -1,0 +1,28 @@
+h1{
+    color: whitesmoke;
+    background-color:gainsboro;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 0 100px 0 100px;
+}
+
+header{
+    border-color: seashell;
+    font-family: sans-serif;
+}
+
+*{
+    background-color: lightsteelblue
+}
+
+button{
+    border-color: floralwhite;
+    border-style: double;
+    text-align: center;
+}
